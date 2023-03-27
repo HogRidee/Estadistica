@@ -1,2 +1,2 @@
-# Estad-stica
+# Estadistica
 Estadística para Ingeniería - Lenguaje R
