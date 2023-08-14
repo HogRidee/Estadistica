@@ -1,2 +1,3 @@
 # Ciclo Adelanto
-Clase 9: Variable aleatoria CONTINUA, propiedades + ejercicios (EXÁMENES PASADOS), hoja de ejercicios <br/>
+Clase 09: Variable aleatoria CONTINUA, propiedades + ejercicios (EXÁMENES PASADOS), hoja de ejercicios <br/>
+Clase 10: Distribuciones discretas, binomial (teoría + ejercicios), hipergeométrica (teoría + ejercicios) <br/>
