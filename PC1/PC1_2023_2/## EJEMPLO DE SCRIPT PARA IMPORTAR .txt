@@ -1,0 +1,4 @@
+## EJEMPLO DE SCRIPT PARA IMPORTAR LOS DATOS DEL CENSO ##+
+
+load("E:/EST218/eval/20232/Censo_Universitario.Rdata")
+View(d)
